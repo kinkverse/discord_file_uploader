@@ -1,0 +1,13 @@
+{
+    "DevChat.PythonForChat": "c:\\Users\\taysh\\.vscode\\extensions\\merico.devchat-0.1.47\\tools\\python-3.11.6-embed-amd64\\python.exe",
+    "DevChat.PythonForCommands": "C:\\Users\\taysh\\.chat\\mamba\\envs\\devchat-commands\\python.exe",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}

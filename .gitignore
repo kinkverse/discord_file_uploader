@@ -1,0 +1,14 @@
+# General
+__pycache__/
+*.pyc
+.DS_Store
+
+# Environment
+.env
+venv/
+bin/
+lib/
+pyvenv.cfg
+
+# Configuration
+config.json
